@@ -22,5 +22,8 @@ The listening can be done in several ways such as EventEmitters or websockets.
 
 See these links for more information:
 https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e#.r3mnvbkve
+
 https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture
+
+http://blog.andrewray.me/flux-for-stupid-people/
 
